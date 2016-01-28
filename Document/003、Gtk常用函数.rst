@@ -1,0 +1,7 @@
+===========
+Gtk常用函数
+===========
+
+sutincludec=../Source/GtkCommon.c
+
+
